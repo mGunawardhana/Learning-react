@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-//class base  app return type ReactNode
+//TODO class base  app return type ReactNode
 export default class App extends Component {
 
   //TODO  danata console log ekak dala balanna gatte
@@ -35,5 +35,5 @@ render(): React.ReactNode {
 }}
 
 
-//TODO meeka commeent kare uda 6 weni line eke return karapu nisa
+//TODO meeka comment kare uda 6 weni line eke return karapu nisa
 // export default App;
