@@ -10,8 +10,11 @@ const root = ReactDOM.createRoot(
 
 //TODO mee uda eken ganna id ekata (line 8 id ekata) render karanawa root eliment eka
 // metana wennet append karanawa wage ekak tamai
+
+//meeken karanne development waladi warnings eheme ena ewa show karanawa
 root.render(
   <React.StrictMode>
+    {/* app kiyana component eka tamai mulu folder ekatama root eka */}
     <App />
   </React.StrictMode>
 );
