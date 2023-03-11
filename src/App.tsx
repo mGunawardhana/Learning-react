@@ -4,9 +4,7 @@ import './App.css';
 
 export default class App extends Component {
 render(): React.ReactNode {
-
-}
-  return (
+ return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -24,6 +22,8 @@ render(): React.ReactNode {
       </header>
     </div>
   );
+}
+
 }
 
 // export default App;
