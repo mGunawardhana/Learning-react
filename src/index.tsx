@@ -7,6 +7,9 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+
+//TODO mee uda eken ganna id ekata (line 8 id ekata) render karanawa root eliment eka
+// metana wennet append karanawa wage ekak tamai
 root.render(
   <React.StrictMode>
     <App />
